@@ -1,0 +1,2 @@
+# ServerlessNuxt
+serverless nuxt new
